@@ -17,8 +17,8 @@ try {
     $mail->isSMTP();
     $mail->Host       = 'smtp.gmail.com';         // Use Gmail's SMTP
     $mail->SMTPAuth   = true;
-    $mail->Username   = 'tt2825839@gmail.com';   // Your Gmail
-    $mail->Password   = 'cuic mveq dekb qmxq';      // App password 
+    $mail->Username   = '';   // Your Gmail
+    $mail->Password   = '';      // App password 
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS; 
     $mail->Port       = 587;
     $mail->SMTPOptions = array(
@@ -30,7 +30,7 @@ try {
     );
     
     //Recipients
-    $mail->setFrom('tt2825839@gmail.com', 'Your Name');
+    $mail->setFrom('', 'Your Name');
     $mail->addAddress($emp_mail);   // Recipient's email
 
     //Content
