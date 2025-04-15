@@ -53,7 +53,6 @@ Four tables used in MySQL:
 3. **job_posts** – Stores job details posted by employers.
 4. **application** – Stores seeker applications.
 
-(*Schema visuals included in `/images/schema/` folder if uploading.*)
 
 ---
 
@@ -86,11 +85,17 @@ Four tables used in MySQL:
 Please Note: Some images have been shared for relations I have used, etc.
 
 ![Screenshot 2025-04-14 125709](https://github.com/user-attachments/assets/ba033c44-6cb1-4138-a509-b08e8281373c)
+---
 ![Screenshot 2025-04-14 125725](https://github.com/user-attachments/assets/567e3dda-9d3b-4253-8e31-a2e4cc86e0bf)
+---
 ![Screenshot 2025-04-14 125739](https://github.com/user-attachments/assets/c0b50b00-788f-47f4-98d8-ccc7dfabdb6d)
+---
 ![Screenshot 2025-04-14 125751](https://github.com/user-attachments/assets/7cab6320-743e-41c2-8783-d45a397ff134)
+---
 ![Screenshot 2025-04-14 125803](https://github.com/user-attachments/assets/d0aad940-cf22-4969-a85f-1fea11dd6733)
+---
 ![Screenshot 2025-04-14 125815](https://github.com/user-attachments/assets/b4c90146-6391-418b-99ed-d50f154e5272)
+---
 
 
 
