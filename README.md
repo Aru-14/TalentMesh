@@ -82,7 +82,7 @@ Four tables used in MySQL:
 
 ## Working Demo Video
 
-[[http://talentmesh.42web.io/](https://youtu.be/4rEjK7Qzmg0)]
+[[https://youtu.be/4rEjK7Qzmg0](https://youtu.be/4rEjK7Qzmg0)]
 
 ---
 
